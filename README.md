@@ -16,10 +16,10 @@ Identificador                         | HU002
 Nombre                                | Editar Asignatura
 Descripción                           | Como docente, quiero editar los datos de una asignatura con la finalidad de actualizar el catálogo.
 Puntos de historia (días ideales)     | 0.5
-Criterio de aceptación 1              | Al editar una asignatura se debe informar si el proceso se realizó con éxito o no.
-Criterio de aceptación 2              | Al editar una asignatura con los mismos datos de otra o la misma  se debe informar que el proceso no se realizó con éxito.
-Criterio de aceptación 3              | Al editar una asignatura debe aparecer el cambio en la tabla asignaturas de la base de datos.
-Criterio de aceptación 4              | Los campo nombreAsignatura y nombreDocente no deben estar vacíos.
+Criterio de aceptación                | Al editar una asignatura se debe informar si el proceso se realizó con éxito o no.
+Criterio de aceptación                | Al editar una asignatura con los mismos datos de otra o la misma  se debe informar que el proceso no se realizó con éxito.
+Criterio de aceptación                | Al editar una asignatura debe aparecer el cambio en la tabla asignaturas de la base de datos.
+Criterio de aceptación                | Los campo nombreAsignatura y nombreDocente no deben estar vacíos.
 
 Revisión
 
